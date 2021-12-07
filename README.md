@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zachasnes
 - 👀 I’m interested in learning all about computers and software.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning to code as a begginer.
+- 💞️ I’m looking to collaborate on learning to code as a beginner.
 - 📫 How to reach me zachasnes@gmail.com / IG @zachasnes
 
 <!---
